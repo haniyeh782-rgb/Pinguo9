@@ -1,9 +1,9 @@
 {
   "name": "PinguApp",
   "description": "This is my Telegram Mini App with TonConnect.",
-  "url": "https://haniyeh782-rgb.github.io/ton-manifest/",
-  "iconUrl": "https://haniyeh782-rgb.github.io/ton-manifest/icon.png",
+  "url": "https://haniyeh782-rgb.github.io/Pinguo9/",
+  "iconUrl": "https://haniyeh782-rgb.github.io/Pinguo9/icon.png",
   "bridgeUrl": "https://bridge.tonapi.io/bridge",
-  "termsUrl": "https://haniyeh782-rgb.github.io/ton-manifest/terms.html",
-  "privacyUrl": "https://haniyeh782-rgb.github.io/ton-manifest/privacy.html"
+  "termsUrl": "https://haniyeh782-rgb.github.io/Pinguo9/terms.html",
+  "privacyUrl": "https://haniyeh782-rgb.github.io/Pinguo9/privacy.html"
 }
